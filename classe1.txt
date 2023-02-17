@@ -1,0 +1,22 @@
+class Class1{
+
+
+public Class 1(){
+
+
+	fct1(){
+		inst1;
+		inst2;
+
+	}
+
+	fct2(){
+		inst1;
+		inst2;
+		inst3;
+
+	}
+
+
+
+}
