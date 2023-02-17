@@ -1,6 +1,13 @@
 class Class2{
 
 
+/** 
+*
+* Comment
+*
+*/
+
+
 public Class 2(){
 
 

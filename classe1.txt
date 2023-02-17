@@ -1,19 +1,23 @@
+
+
 class Class1{
+
+/** 
+*
+* Comment
+*
+*/
 
 
 public Class 1(){
 
+	// Supp fct1
+	
 
-	fct1(){
-		inst1... ;	// Test
-		inst2... ;	// Test
-		inst3... ; // Release // Test
-		inst4; // Release
-
-	}
+	
 
 	fct2(){
-		inst1...; // Test
+		inst1;
 		inst2;
 		inst3;
 		inst4; // Release
@@ -36,13 +40,8 @@ public Class 1(){
 	}
 
 
-// Release
-	fct5(){
-		inst1;
-		inst2;
-		inst3;
+// Sup fct5
 
-	}
 
 
 
