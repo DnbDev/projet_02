@@ -4,9 +4,18 @@ class Class2{
 public Class 2(){
 
 
+	fct1(){
+		inst1;
+		inst2;
+		inst3;
+
+	}
+
+
 	fct2(){
 		inst1;
 		inst2;
+		inst3;
 
 	}
 
