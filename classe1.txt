@@ -5,15 +5,15 @@ public Class 1(){
 
 
 	fct1(){
-		inst1;
-		inst2;
-		inst3; // Release
+		inst1... ;	// Test
+		inst2... ;	// Test
+		inst3... ; // Release // Test
 		inst4; // Release
 
 	}
 
 	fct2(){
-		inst1;
+		inst1...; // Test
 		inst2;
 		inst3;
 		inst4; // Release
