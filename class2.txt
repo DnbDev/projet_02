@@ -19,6 +19,13 @@ public Class 2(){
 
 	}
 
+	fct3(){
+		inst1;
+		inst2;
+		inst3;
+
+	}
+
 
 
 
