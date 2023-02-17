@@ -7,7 +7,7 @@ public Class 2(){
 	fct1(){
 		inst1;
 		inst2;
-		inst3;
+/*		inst3*/; // Release
 
 	}
 
@@ -18,6 +18,14 @@ public Class 2(){
 		inst3;
 
 	}
+
+	fct3(){
+		inst1;
+		inst2;
+		inst3;
+
+	}
+
 
 	fct3(){
 		inst1;
