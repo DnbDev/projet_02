@@ -1,0 +1,40 @@
+class Class2TEST{
+
+
+public Class2TEST(){
+
+
+	fct1TEST1(){
+		inst1;
+		inst2;
+/*		inst3*/; // Release
+
+	}
+
+
+	fct2TEST1(){
+		inst1;
+		inst2;
+		inst3;
+
+	}
+
+	fct3TEST1(){
+		inst1;
+		inst2;
+		inst3;
+
+	}
+
+
+	fct4TEST1(){
+		inst1;
+		inst2;
+		inst3;
+
+	}
+
+
+
+
+}

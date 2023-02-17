@@ -1,0 +1,53 @@
+class Class1TEST{
+
+
+public Class 1(){
+
+
+@BeforeEach()
+@AfterEach
+
+
+	fctTEST1(){
+		inst1;
+		inst2;
+		inst3; // Release
+		inst4; // Release
+
+	}
+
+	fct2TEST1(){
+		inst1;
+		inst2;
+		inst3;
+		inst4; // Release
+
+
+	}
+
+	fct3TEST1(){
+		inst1;
+		inst2;
+		inst3;
+
+	}
+
+	fct4TEST1(){
+		inst1;
+		inst2;
+		inst3;
+
+	}
+
+
+// Release
+	fct5TEST1(){
+		inst1;
+		inst2;
+		inst3;
+
+	}
+
+
+
+}
